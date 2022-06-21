@@ -1,0 +1,17 @@
+.idea/
+.idea.bak/
+logs/
+log/
+dict/
+data/
+py3venv/
+tmp/
+__pycache__/
+*.pyc
+*.swp
+*.log
+*.out
+*.json
+*.gz
+*.svm
+*.DS_Store
